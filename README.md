@@ -1,16 +1,20 @@
-## Hi there 👋
+# Дмитрий Никитенко
 
-<!--
-**sa1to21/sa1to21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior DevOps / Linux Engineer.
 
-Here are some ideas to get you started:
+Работаю с Linux, Docker, Nginx, Jenkins. Интересуюсь автоматизацией инфраструктуры и CI/CD. Сейчас углублённо изучаю Kubernetes и Ansible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек
+
+`Linux` `Docker` `Docker Compose` `Nginx` `Jenkins` `CI/CD` `Git` `Bash` `SQL` `Prometheus` `Grafana`
+
+## Проекты
+
+**[personal-hub](https://github.com/sa1to21/personal-hub)** — Микросервисное веб-приложение. Docker, Docker Compose, Nginx reverse proxy, Jenkins CI/CD. Инфраструктурная часть полностью написана мною.(Подрбнее - README внутри)
+
+**[wisetrack-fintrack](https://github.com/sa1to21/wisetrack-fintrack)** — Telegram-бот для учёта финансов с веб-интерфейсом. 4 контейнера, healthcheck'и, cron-сервис. Первый опыт деплоя на VPS.(Подрбнее - README внутри)
+
+## Контакты
+
+- Telegram: [@sa1to21](https://t.me/sa1to21)
+- Email: nikitenkov20v@gmail.com
